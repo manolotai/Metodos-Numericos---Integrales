@@ -1,0 +1,16 @@
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\CalculoIntegral\CalculoIntegral\bin\Debug\CalculoIntegral.exe.config
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\CalculoIntegral\CalculoIntegral\bin\Debug\CalculoIntegral.exe
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\CalculoIntegral\CalculoIntegral\bin\Debug\CalculoIntegral.pdb
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\CalculoIntegral\CalculoIntegral\bin\Debug\Jace.dll
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\CalculoIntegral\CalculoIntegral\bin\Debug\MyBackPack.dll
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\CalculoIntegral\CalculoIntegral\bin\Debug\MyBackPack.pdb
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\CalculoIntegral\CalculoIntegral\obj\Debug\CalculoIntegral.csprojResolveAssemblyReference.cache
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\CalculoIntegral\CalculoIntegral\obj\Debug\CalculoIntegral.Form1.resources
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\CalculoIntegral\CalculoIntegral\obj\Debug\CalculoIntegral.Properties.Resources.resources
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\CalculoIntegral\CalculoIntegral\obj\Debug\CalculoIntegral.csproj.GenerateResource.Cache
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\CalculoIntegral\CalculoIntegral\obj\Debug\CalculoIntegral.exe
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\CalculoIntegral\CalculoIntegral\obj\Debug\CalculoIntegral.pdb
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\CalculoIntegral\CalculoIntegral\bin\Debug\MisGrafos.dll
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\CalculoIntegral\CalculoIntegral\bin\Debug\MisGrafos.pdb
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\CalculoIntegral\CalculoIntegral\bin\Debug\UnityEngine.dll
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\CalculoIntegral\CalculoIntegral\bin\Debug\UnityEngine.xml
